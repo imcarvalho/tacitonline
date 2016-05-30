@@ -7,3 +7,9 @@ body img {
 body #contactos {
   margin-top: 30px;
 }
+body .footer-above {
+  padding-top: 20px;
+}
+body header {
+  padding-bottom: 20px;
+}
